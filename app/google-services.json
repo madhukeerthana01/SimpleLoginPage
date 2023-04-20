@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023721060220",
+    "project_id": "mylogintask-1",
+    "storage_bucket": "mylogintask-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023721060220:android:374afeae7a33fe63b596f9",
+        "android_client_info": {
+          "package_name": "com.example.mylogintask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023721060220-np6s76b0icn5j610ah4qr0a0ue439h51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bZ_5RSfnwx1zi-tBeS7wgzwqN9UezFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023721060220-np6s76b0icn5j610ah4qr0a0ue439h51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
